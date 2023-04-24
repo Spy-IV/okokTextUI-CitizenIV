@@ -6,7 +6,7 @@ okokTextUI converted from fivem to CitizenIV
 
 # To display a text UI
 
-exports.okokTextUI':Open('[Key] Message', 'color', 'position')
+`exports.okokTextUI':Open('[Key] Message', 'color', 'position')`
 
 Colors:
 	- lightblue;
@@ -31,3 +31,6 @@ NOTE: 'color' and 'position' should be placed between ''
 
 exports.'okokTextUI':Close()
 
+# EXAMPLE CODE
+
+`exports.okokTextUI':Open('Press [E] to open ATM', 'lightblue', 'left')`
