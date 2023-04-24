@@ -36,3 +36,6 @@ exports.'okokTextUI':Close()
 `exports.okokTextUI':Open('Press [E] to open ATM', 'lightblue', 'left')`
 
 ![ORGINAL RESOURCE](https://forum.cfx.re/t/okoktextui-standalone-paid/4182451)
+
+
+Citizeniv script
